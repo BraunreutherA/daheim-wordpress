@@ -364,12 +364,6 @@ ul {
 #login-menu li:nth-child(3) a {
   border: 2.666px solid rgba(227,33,120,1);
   background-color: rgba(227,33,120,1);
-
-  background-image:
-    url(http://alexanderboenninger.de/Daheim/img/herz.svg),
-    url(http://alexanderboenninger.de/Daheim/img/herz.svg);
-  background-repeat: no-repeat, no-repeat;
-  background-position: 6px center, right 6px center;
 }
 #login-menu li:nth-child(3) a:hover {
   background-color: rgba(122,54,84,1);
