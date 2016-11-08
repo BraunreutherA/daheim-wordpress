@@ -45,7 +45,7 @@
 
           <ul id="login-menu" class="login-menu">
             <li><a href="https://app.willkommen-daheim.org/auth">Anmelden</a></li>
-            <li><a href="https://app.willkommen-daheim.org/auth/register">Registieren</a></li>
+            <li><a href="https://app.willkommen-daheim.org/auth/register">Registrieren</a></li>
             <li><a href="/donate/">Spende</a></li>
           </ul>
 
